@@ -1,0 +1,2 @@
+# stranica
+projekt internet stranica
